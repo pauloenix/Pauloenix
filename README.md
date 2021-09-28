@@ -4,7 +4,6 @@
 - 📫 Email para contato: pauloenix@tutanota.com
 - 😄 Pronouns:Ele/dele
 
-<div>
-  <a href- "https://github.com/pauloenix">
-    <img height-"180em" src-"(https://github-readme-stats.vercel.app/api?username=pauloenix&show_incons=true&theme-dark&includ_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vecel.app/api/top-langs/?userrname=pauloenixini&layout=compact&langs_count=16&theme+dark"/>
+
+[![Pauloenix GitHub stats](https://github-readme-stats.vercel.app/api?username=pauloenix)](https://github.com/pauloenix/github-readme-stats)
+
